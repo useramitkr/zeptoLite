@@ -14,7 +14,7 @@ const Header: React.FC = () => {
                 <button
                     className="bg-yellow-500 text-black py-2 px-4 rounded-lg hover:bg-yellow-400"
                 >
-                    Help: +91 9876543210
+                    Coupon: SAVE10 || SAVE20
                 </button>
             </div>
         </header>
